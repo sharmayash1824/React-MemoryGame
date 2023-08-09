@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  font-size: 1.5em;
+  margin: 0;
+  text-align: center;
+  /* background: linear-gradient(to right,#f96c00,#0c3800); */
+  /* background: linear-gradient(to right,#0811b8,#97da06); */
+  /* background-color: rgb(255, 0, 0); */
+  /* background-image:url('/public/Images/Bg.jpg'); */
+  background-image: url('https://wallpapersmug.com/download/1600x900/3ff1f0/colorful-galaxy-digital-art.jpg');
+  background-attachment: fixed;
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
